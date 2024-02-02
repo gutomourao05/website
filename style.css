@@ -313,6 +313,11 @@ section {
   margin: auto 0;
 }
 
+.section__pic-container img {
+  height: 400px;
+  width: 400px;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
